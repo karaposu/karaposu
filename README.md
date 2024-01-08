@@ -10,6 +10,7 @@ Here, you'll find a collection of my work, including various projects, packages,
 
 <details>
 <summary> My PyPI Packages</summary>
+   
 I have published several simple but useful packages on PyPI. Here's a list of them for quick access:
 
 1. **tpcs** [https://pypi.org/project/tpcs/](https://pypi.org/project/tpcs/)
@@ -27,6 +28,7 @@ I have published several simple but useful packages on PyPI. Here's a list of th
 
 <details>
 <summary> My Tutorials</summary>
+   
 I also have created some technical tutorials for various not-so-popular topics:
 
 - **GLPK & AMPL Tutorial 00 : Manual Installation** - [https://www.youtube.com/watch?v=GOI0hj2EyaU](#)
