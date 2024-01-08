@@ -8,14 +8,8 @@ Here, you'll find a collection of my work, including various projects, packages,
 <img src='https://github-readme-stats.vercel.app/api?username=karaposu&theme=dracula' style='witdh:2000px' >
 </details>
 
-<detail>
-   ## My PyPssI Packages
-</detail>
-
-<detail>
-
-## My PyPI Packages
-
+<details>
+<summary> My PyPI Packages</summary>
 I have published several simple but useful packages on PyPI. Here's a list of them for quick access:
 
 1. **[tpcs]** - *TPCS is a metric to assess how well time-dependent patterns within a time series signal remain connected over time, with an emphasis on recency.*
@@ -28,15 +22,17 @@ I have published several simple but useful packages on PyPI. Here's a list of th
    - PyPI link: [https://pypi.org/project/sequentiality/](https://pypi.org/project/sequentiality/)
   
 
+</details>
 
-## Tutorials
-
+<details>
+<summary> My Tutorials</summary>
 I also have created some technical tutorials for various not-so-popular topics:
 
-- **[GLPK & AMPL Tutorial 00 : Manual Installation]** - [https://www.youtube.com/watch?v=GOI0hj2EyaU](#)
-- **[GLPK & AMPL Tutorial 02 : Maximizing Profit Using GLPK]** - [https://www.youtube.com/watch?v=7Eh6b0UJmVM&t](#)
-- - **[GLPK & AMPL Tutorial 03 : Data-Model Separation]** - [https://www.youtube.com/watch?v=kxmaI5le7ow&t](#)
+- **GLPK & AMPL Tutorial 00 : Manual Installation** - [https://www.youtube.com/watch?v=GOI0hj2EyaU](#)
+- **GLPK & AMPL Tutorial 02 : Maximizing Profit Using GLPK** - [https://www.youtube.com/watch?v=7Eh6b0UJmVM&t](#)
+- **GLPK & AMPL Tutorial 03 : Data-Model Separation** - [https://www.youtube.com/watch?v=kxmaI5le7ow&t](#)
 
+</details>
 
 ## Connect with Me
 
