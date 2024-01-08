@@ -7,7 +7,12 @@ Here, you'll find a collection of my work, including various projects, packages,
 <summary> My Stats</summary>
 <img src='https://github-readme-stats.vercel.app/api?username=karaposu&theme=dracula' style='witdh:2000px' >
 </details>
-<details>
+
+<detail>
+   
+</detail>
+
+<detail>
 
 ## My PyPI Packages
 
