@@ -12,14 +12,15 @@ Here, you'll find a collection of my work, including various projects, packages,
 <summary> My PyPI Packages</summary>
 I have published several simple but useful packages on PyPI. Here's a list of them for quick access:
 
-1. **[tpcs]** - *TPCS is a metric to assess how well time-dependent patterns within a time series signal remain connected over time, with an emphasis on recency.*
-   - PyPI link: [https://pypi.org/project/tpcs/](https://pypi.org/project/tpcs/)
- 
-2. **[time_series_cleanliness_score]** - **
+1. **tpcs** - [https://pypi.org/project/tpcs/](https://pypi.org/project/tpcs/)
+   *TPCS is a metric to assess how well time-dependent patterns within a time series signal remain connected over time, with an emphasis on recency.*
+
+2. **time_series_cleanliness_score** - **
    - PyPI link: []()
    
-3. **[sequentiality]** - *sequentiality is a Python package designed for extracting various types of Longest Consecutive Subsequences (LCS) from a list of integers.*
-   - PyPI link: [https://pypi.org/project/sequentiality/](https://pypi.org/project/sequentiality/)
+3. **sequentiality** [https://pypi.org/project/sequentiality/](https://pypi.org/project/sequentiality/)
+   - *sequentiality is a Python package designed for extracting various types of Longest Consecutive Subsequences (LCS) from a list of integers.*
+
   
 
 </details>
