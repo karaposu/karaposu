@@ -9,7 +9,7 @@ Here, you'll find a collection of my work, including various projects, packages,
 </details>
 
 <detail>
-   sdfa
+   ## My PyPssI Packages
 </detail>
 
 <detail>
