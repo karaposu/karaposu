@@ -16,8 +16,8 @@ I have published several simple but useful packages on PyPI. Here's a list of th
 1. **tpcs** [https://pypi.org/project/tpcs/](https://pypi.org/project/tpcs/)
    - *TPCS is a metric to assess how well time-dependent patterns within a time series signal remain connected over time, with an emphasis on recency.*
 
-2. **time_series_cleanliness_score** [https://pypi.org/project/tpcs/](https://pypi.org/project/tpcs/)
-   - *updated
+2. **timeseriesqualitycheck** [https://pypi.org/project/timeseriesqualitycheck/](https://pypi.org/project/timeseriesqualitycheck/0.0.1/)
+   - * a Python package designed to assess the quality of time-series data. It provides a straightforward way to evaluate the integrity and cleanliness of time-series datasets by analyzing their Time Pattern Cohesion Score (TPCS) and Signal-to-Noise Ratio (SNR)
    
 3. **sequentiality** [https://pypi.org/project/sequentiality/](https://pypi.org/project/sequentiality/)
    - *sequentiality is a Python package designed for extracting various types of Longest Consecutive Subsequences (LCS) from a list of integers.*
