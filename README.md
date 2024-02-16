@@ -40,7 +40,8 @@ I also have created some technical tutorials for various not-so-popular topics:
 
 ## Connect with Me
 
-Feel free to reach out or follow me on social media:
+Feel free to book a meeting or follow me on social media:
+- Book a meeting: [https://cal.com/ns-the-one](#)
 
 - LinkedIn: [https://www.linkedin.com/in/enes-kuzucu/](#)
 
