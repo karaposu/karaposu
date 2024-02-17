@@ -41,7 +41,7 @@ I also have created some technical tutorials for various not-so-popular topics:
 ## Connect with Me
 
 Feel free to book a meeting or follow me on social media:
-- Book a meeting: [https://cal.com/ns-the-one]([https://cal.com/ns-the-one)
+- Book a meeting: [https://cal.com/ns-the-one](https://cal.com/ns-the-one)
 
 - LinkedIn: [https://www.linkedin.com/in/enes-kuzucu/](https://www.linkedin.com/in/enes-kuzucu/)
 
