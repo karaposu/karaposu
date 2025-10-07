@@ -1,6 +1,4 @@
 
-
-I'm Enes, 
 Here, you'll find a collection of my work, including various projects, packages, and tutorials.
 
 <details>
