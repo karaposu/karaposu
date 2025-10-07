@@ -34,16 +34,7 @@ I also have created some technical tutorials for various not-so-popular topics:
 - **GLPK & AMPL Tutorial 02 : Maximizing Profit Using GLPK** - [https://www.youtube.com/watch?v=7Eh6b0UJmVM&t](https://www.youtube.com/watch?v=7Eh6b0UJmVM&t)
 - **GLPK & AMPL Tutorial 03 : Data-Model Separation** - [https://www.youtube.com/watch?v=kxmaI5le7ow&t](https://www.youtube.com/watch?v=kxmaI5le7ow&t)
 
-</details>
 
-## Connect with Me
-
-Feel free to book a meeting or follow me on social media:
-- Book a meeting: [https://cal.com/ns-the-one](https://cal.com/ns-the-one)
-
-- LinkedIn: [https://www.linkedin.com/in/enes-kuzucu/](https://www.linkedin.com/in/enes-kuzucu/)
-
-Thank you for visiting my profile, and I hope you find my work interesting and useful!
 
 
 ##### Languages I use
